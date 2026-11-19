@@ -1,0 +1,12 @@
+{
+  "name": "virtual-pc",
+  "version": "0.1.0",
+  "description": "A self-contained browser-based virtual desktop simulation intended for embedding.",
+  "private": false,
+  "runtime": "static-html",
+  "entry": "index.html",
+  "dependencies": {},
+  "scripts": {
+    "serve": "python -m http.server 8000"
+  }
+}
